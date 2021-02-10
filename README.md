@@ -8,6 +8,7 @@ I'm passionate about people, learning, and all things electronics.
 - 📧 How to reach me: kimberly.n.retherford@outlook.com or LinkedIn
 - 😄 Pronouns: She/Her
 
+
 “Never stop dreaming, <br>
 never stop believing, <br>
 never give up, <br>
