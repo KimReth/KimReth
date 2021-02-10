@@ -8,9 +8,9 @@ I'm passionate about people, learning, and all things electronics.
 - 📧 How to reach me: kimberly.n.retherford@outlook.com or LinkedIn
 - 😄 Pronouns: She/Her
 
-“Never stop dreaming,
-never stop believing,
-never give up,
-never stop trying, and
-never stop learning”
-- Roy T. Bennett 🌟
+“Never stop dreaming, <br>
+never stop believing, <br>
+never give up, <br>
+never stop trying, and <br>
+never stop learning” <br>
+~ Roy T. Bennett 🌟
