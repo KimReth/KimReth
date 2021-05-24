@@ -1,11 +1,11 @@
 ### Welcome Fellow Nerds! 🖖 
 
-My name is Kimberly Retherford and I'm a junior software engineer that is currently attending the Microsoft Software & Systems Academy!
+My name is Kimberly and I am a CRM Consultant at Microsoft!
 
 I'm passionate about people, learning, and all things electronics.
 
-- 🎮 I’m currently teaching myself Python and game development with Unity in my spare time
-- 📧 How to reach me: kimberly.n.retherford@outlook.com or LinkedIn
+- 🎮 I’m currently teaching game development with Unity in my spare time
+- 📧 How to reach me: kretherford@microsoft.com or LinkedIn
 - 😄 Pronouns: She/Her
 
 
