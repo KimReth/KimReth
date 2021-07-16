@@ -4,7 +4,7 @@ My name is Kimberly and I am a CRM Consultant at Microsoft!
 
 I'm passionate about people, learning, and all things electronics.
 
-- 🎮 I’m currently teaching game development with Unity in my spare time
+- 🎮 I’m currently learning game development with Unity in my spare time
 - 📧 How to reach me: kretherford@microsoft.com or LinkedIn
 - 😄 Pronouns: She/Her
 
