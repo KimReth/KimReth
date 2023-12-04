@@ -1,10 +1,10 @@
 ### Welcome Fellow Nerds! 🖖 
 
-My name is Kimberly and I am a CRM Consultant at Microsoft!
+My name is Kimberly and I am a Cloud Solution Architect at Microsoft!
 
 I'm passionate about people, learning, and all things electronics.
 
-- 🎮 I’m currently learning game development with Unity in my spare time
+- 🎮 I’m currently working on my B.S. in Computer Science in my spare time
 - 📧 How to reach me: kretherford@microsoft.com or LinkedIn
 - 😄 Pronouns: She/Her
 
